@@ -21,6 +21,6 @@ Dopo aver convertito la variabile target in TWD/mq, si applicano due modelli, en
 
 Per eseguire l'applicazione basta runnare il codice sul terminale tramite il comando "streamlit run project_trematerra.py".
 
-Infine è stata creata una mappa interattiva delle case presenti nel dataset per poterne visualizzare la posizione e le caratteristiche.
+Infine è stata creata con Tableau una mappa interattiva delle case presenti nel dataset per poterne visualizzare la posizione e le caratteristiche.
 
 La mappa è visualizzabile al seguente link: https://public.tableau.com/app/profile/raffaele.trematerra3300/viz/mappa_prezzi_case_Sindian/Foglio1
