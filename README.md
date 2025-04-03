@@ -17,7 +17,7 @@ X6, longitudine;
 
 Y, prezzo in 10000 New Taiwan Dollar/Ping.
 
-Dopo aver convertito la variabile target in TWD/mq, si applicano due modelli, entrambi con il prezzo al mq come target, uno con longitudine e latitudine come predittori, l'altro con le variabili X2, X3 e X4 come covariate. Potranno essere usati entrambi nella web app per stimare il prezzo della casa, a seconda delle informazioni che si hanno a disposizione.
+Dopo aver convertito la variabile target in TWD/mq, si applicano due modelli lineari, entrambi con il prezzo al mq come target, uno con longitudine e latitudine come predittori (R quadro = 0.405), l'altro con le variabili X2, X3 e X4 come covariate (R quadro = 0.541). Potranno essere usati entrambi nella web app per stimare il prezzo della casa, a seconda delle informazioni che si hanno a disposizione.
 
 Per eseguire l'applicazione basta runnare il codice sul terminale tramite il comando "streamlit run project_trematerra.py".
 
