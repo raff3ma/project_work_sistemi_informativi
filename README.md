@@ -1,6 +1,6 @@
 # project_work_sistemi_informativi
-Il dataset riporta informazioni riguardanti delle case nella regione di Sindian, Nuova Taipei, Taiwan. 
-Le variabili in esso presenti sono: \n
+# Il dataset riporta informazioni riguardanti delle case nella regione di Sindian, Nuova Taipei, Taiwan. 
+# Le variabili in esso presenti sono:
 X1, data della transazione;
 X2, età della casa (in anni);
 X3, distanza dalla stazione MRT più vicina (in metri);
